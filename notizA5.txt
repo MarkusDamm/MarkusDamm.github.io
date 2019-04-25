@@ -1,0 +1,11 @@
+Assoziative Arrays ^= Interface
+    homogen: gleiche Datentypen im Array
+    heterogen: unterschiedliche Datentypen
+
+for .. of 
+    Gibt Daten IM Array wieder
+for .. in
+    Gibt KEYS der Arrays wieder
+
+export um Inhalte aus einer Datei auch in anderen mit Hilfe von import aufzurufen
+
